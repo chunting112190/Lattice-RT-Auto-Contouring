@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software in your clinical practice or research, please cite it as below."
 authors:
 - family-names: "Su"
@@ -6,7 +6,6 @@ authors:
   orcid: "https://orcid.org/0009-0007-4242-6674"
 title: "Lattice Radiotherapy Auto-Contouring System for Varian Eclipse"
 version: 1.0.0
-# doi: 10.5281/zenodo.123456  # 若未來有發布到 Zenodo 可填入
 date-released: 2026-01-20
 url: "https://github.com/chunting112190/Lattice-RT-Auto-Contouring"
 license: MIT
@@ -24,4 +23,5 @@ preferred-citation:
   - family-names: "Su"
     given-names: "Chun Ting"
   title: "Lattice Radiotherapy Auto-Contouring System for Varian Eclipse"
+
   year: 2026
