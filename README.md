@@ -60,5 +60,18 @@ pip install -r requirements.txt
 # Run the app
 python main.py
 
-%%本軟體僅供研究與教育用途。尚未經 FDA 或衛福部核准用於臨床醫療行為。使用者須自行承擔風險，並務必在臨床使用前，由合格醫學物理師或醫師驗證生成的結構準確性。
 
+Usage (使用說明)
+Load Files: Select your CT folder and RT Structure file.
+Select Structures: Choose the target PTV and OARs to avoid (Hold Ctrl for multiple OARs).
+Configure: Set Sphere Size (mm), Spacing (mm), and Margin (mm).
+Generate: Click "Generate". The system will save a new DICOM file compatible with Eclipse.
+
+
+Screenshots (介面預覽)
+
+
+⚠️ Disclaimer (免責聲明)
+This software is for research and educational purposes only. It has not been cleared by the FDA or other regulatory bodies for clinical use. Users must verify all generated contours before clinical application.
+
+本軟體僅供研究與教育用途，未經 FDA 或衛福部核准用於臨床醫療行為。臨床使用前請務必進行驗證。
