@@ -119,10 +119,8 @@ No Python installation is required.
 
 ## 📸 Screenshots (介面預覽)
 
-*(Please upload screenshots of your GUI and the Visualization Window here)*
-*(建議在此處上傳軟體操作截圖與視覺化視窗截圖)*
 
-![GUI Interface](https://via.placeholder.com/800x500?text=GUI+Screenshot+Here)
+![GUI Interface]([https://via.placeholder.com/800x500?text=GUI+Screenshot+Here](https://github.com/chunting112190/Lattice-RT-Auto-Contouring/blob/main/Home%20Page.png))
 
 ---
 
@@ -149,3 +147,4 @@ This software is developed for **research and educational purposes only**. It ha
 ---
 
 © 2026 [Your Name / Organization]. All Rights Reserved.
+
